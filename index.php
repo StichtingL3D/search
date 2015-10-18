@@ -53,7 +53,7 @@ if (!empty($_GET['q'])) {
 	// worlds
 	$worlds['mysql']['host'] = 'localhost';
 	$worlds['mysql']['user'] = 'aw';
-	$worlds['mysql']['pass'] = base64_decode('c2VkcnU1dCZzUDImckVfZQ==');
+	$worlds['mysql']['pass'] = '...';
 	
 	$worlds['worldservers'] = array(
 		'school1', 'l3d', 'intern', 'school2', 'speciaal',
